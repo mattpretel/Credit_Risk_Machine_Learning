@@ -1,4 +1,4 @@
-# Using Classification and Machine Learning to Determine Credit Risk
+# Using Classification / Machine Learning to Determine Credit Risk
 
 In this project I will build and analyze different machine-learning models to predict credit risk.
 
